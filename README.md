@@ -2,4 +2,4 @@
 Мои щитпост идеи и приколы c++
 
 ## Приколы с vtable
-[FuncAsMethod](/src/FuncAsMethod.cpp)
+[Эта функция точно не метод](/src/FuncAsMethod.cpp)

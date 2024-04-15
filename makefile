@@ -1,4 +1,4 @@
-all: app/FuncAsMethod
+all: app/FuncAsMethod app/ShittyHooking
 
 app/%: src/%.cpp
-	g++ $^ -o $@
+	g++ -O0 $^ -o $@
